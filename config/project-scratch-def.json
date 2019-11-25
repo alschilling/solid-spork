@@ -1,0 +1,11 @@
+{
+  "orgName": "solid-spork",
+  "edition": "Enterprise",
+  "features": [],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "chatterEnabled": true
+    }
+  }
+}
